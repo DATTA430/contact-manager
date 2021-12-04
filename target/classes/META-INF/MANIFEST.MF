@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: contactmanager
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: user
+Implementation-Vendor-Id: com.contact.manager
+Build-Jdk: 1.8.0_271
+Implementation-URL: https://spring.io/projects/spring-boot/contactmana
+ ger
+Created-By: Maven Integration for Eclipse
+
